@@ -43,6 +43,7 @@ const _USAGEOPTS = `special:
  *  Strings to export
  */
 const STRINGS = {
+  CONFIG:     "config",
   EMPTY:      "",
   HELP:       "help",
   ID:         "id",
