@@ -1,6 +1,6 @@
 env:
   global:
-    - CODECOV_TOKEN="1c776415-4f87-41d6-9078-d911bb2f9a2f" # https://codecov.io
+    - CODECOV_TOKEN="e8c1655d-4c8f-4648-a9b4-588e9ed06fd1" # https://codecov.io
 
 language: node_js
 
