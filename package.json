@@ -1,6 +1,6 @@
 {
   "name": "jsbatch-strings",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "string constants for use with package jsbatchrun and its plugins",
   "author": "Dirk Brenckmann <db.developer@gmx.de>",
   "license": "MIT",
