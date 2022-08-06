@@ -8,7 +8,7 @@ string constants for use with package [jsbatchrun](https://www.npmjs.com/package
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 [![codecov](https://codecov.io/gh/db-developer/jsbatch-strings/branch/master/graph/badge.svg)](https://codecov.io/gh/db-developer/jsbatch-strings)
 [![Build Status](https://travis-ci.com/db-developer/jsbatch-strings.svg?branch=master)](https://travis-ci.com/db-developer/jsbatch-strings)
-[![dependencies](https://david-dm.org/db-developer/jsbatch-strings.svg)](https://david-dm.org/)
+[![dependencies](https://img.shields.io/librariesio/release/npm/jsbatch-strings)](https://libraries.io/)
 
 This package simply provides a number of string constants, used over and over by
 [jsbatchrun](https://www.npmjs.com/package/jsbatchrun).  
