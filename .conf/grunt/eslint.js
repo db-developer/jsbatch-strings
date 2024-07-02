@@ -8,7 +8,7 @@
  
    return {
      options: {
-       overrideConfigFile: ".eslintrc.js"
+      overrideConfigFile: ".conf/eslint/eslint.config.js"
      },
      target: [
        GRUNTFILE,
